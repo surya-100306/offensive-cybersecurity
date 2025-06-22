@@ -1,0 +1,6 @@
+www
+testphp
+admin
+blog
+ftp
+dev
